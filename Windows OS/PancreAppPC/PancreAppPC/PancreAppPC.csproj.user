@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://ps18302.dreamhostps.com/konradstawiski.ifmsa.org/imaginecup_pancreapp/|ftp://ftp.comfortzg.com/www.comfortzg.com:8001/|ftp://ftp.comfortzg.com/public_html/pancreapp/|ftp://ftp.comfortzg.com/public_html/kondi/pancreapppc/|C:\PancreaAppPC\</PublishUrlHistory>
+    <InstallUrlHistory>http://konradstawiski.ifmsa.org/imaginecup_pancreapp/|http://www.comfortzg.com:8001/|http://www.comfortzg.com/~kondi/pancreapp/|http://www.comfortzg.com/~kondi/pancreapppc/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.comfortzg.com/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

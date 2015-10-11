@@ -1,0 +1,51 @@
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\produkty.db
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\SQLite.dll
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\SQLite3.dll
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\PancreAppPC.exe.manifest
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\PancreAppPC.application
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\PancreAppPC.exe
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\PancreAppPC.pdb
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\NumericComparer.dll
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.Properties.Resources.resources
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.csproj.GenerateResource.Cache
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.exe.manifest
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.application
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.exe
+C:\Users\Konrad\documents\visual studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\SQLite.NET.dll.o
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\SQLite.NET.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.Form1.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.Form2.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\WebSocket4Net.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\WebSocket4Net.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\bin\Debug\Trebuchet MS.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.ZobaczWykres.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.EdytorProduktu.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.Logowanie.resources
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.exe
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.pdb
+D:\PancreAppPC\PancreAppPC\bin\Debug\produkty.db
+D:\PancreAppPC\PancreAppPC\bin\Debug\SQLite.dll
+D:\PancreAppPC\PancreAppPC\bin\Debug\SQLite3.dll
+D:\PancreAppPC\PancreAppPC\bin\Debug\Trebuchet MS.ttf
+D:\PancreAppPC\PancreAppPC\bin\Debug\SQLite.NET.dll.o
+D:\PancreAppPC\PancreAppPC\bin\Debug\PancreAppPC.exe.manifest
+D:\PancreAppPC\PancreAppPC\bin\Debug\PancreAppPC.application
+D:\PancreAppPC\PancreAppPC\bin\Debug\PancreAppPC.exe
+D:\PancreAppPC\PancreAppPC\bin\Debug\PancreAppPC.pdb
+D:\PancreAppPC\PancreAppPC\bin\Debug\SQLite.NET.dll
+D:\PancreAppPC\PancreAppPC\bin\Debug\WebSocket4Net.dll
+D:\PancreAppPC\PancreAppPC\bin\Debug\WebSocket4Net.pdb
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.csprojResolveAssemblyReference.cache
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.EdytorProduktu.resources
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.Form1.resources
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.Form2.resources
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.Logowanie.resources
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.Properties.Resources.resources
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.ZobaczWykres.resources
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.csproj.GenerateResource.Cache
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.exe.manifest
+D:\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.application
+E:\!CHMURA\PROJEKTY\PANCREAPP\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.exe
+E:\!CHMURA\PROJEKTY\PANCREAPP\PancreAppPC\PancreAppPC\obj\x86\Debug\PancreAppPC.pdb
